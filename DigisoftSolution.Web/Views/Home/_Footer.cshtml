@@ -1,0 +1,61 @@
+﻿<div class="loader-wraper">
+    <span><img src="~/images/color-logo.png" alt="" /></span>
+</div>
+
+<a href="#" id="scroll-top" class="back-to-top" style="display: none;"><i class="fa fa-angle-up" aria-hidden="true"></i></a>
+
+<footer style="background-image: url(/images/bg-footer1.png);">
+    <div class="container">
+        <figure>
+            <img src="~/images/Digisoft-logo.png" class="footer-logo" alt="" />
+        </figure>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="footer-sec">
+                    <img src="~/images/globe.png" alt="" />
+                    <a target="_blank" href="https://www.google.com/maps/place/Digisoft+Solution/30.7098075,76.6870991,17z/data=!4m8!1m2!2m1!1sF-178,+Sector+74,+SAS+Nagar,+Punjab,+India!3m4!1s0x390feb3437dc0447:0x66c75f7197258864!8m2!3d30.7090846!4d76.6912981">F-178, Sector 74, SAS Nagar, Punjab, India</a>
+                    <h6>Our Address</h6>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="footer-sec">
+                    <img src="~/images/email.png" alt="" />
+                    <a href="mailto:info@digisoftsolution.net">info@digisoftsolution.net</a>
+                    <h6>Our Mailbox</h6>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="footer-sec">
+                    <img src="~/images/call.png" alt="" />
+                    <a href="tel:+918283831813">+91 -82838-31813</a>
+                    <h6>Our Phone</h6>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="botton-nav">
+                    <ul>
+                        <li><a href="/Home">Home</a></li>
+                        <li><a href="/About">About Us</a></li>
+                        <li><a href="/Services">Services</a></li>
+                        <li><a href="/OurTeam">Our Team</a></li>
+                        <li><a href="/Portfolio">Portfolio</a></li>
+                        <li><a href="/Contact">Contact Us</a></li>
+                    </ul>
+                    <p>
+                        Copyright © 2022 Digisoft Solution. All Rights Reserved.
+                    </p>
+                    @Html.Partial("_Social")
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script>
+    $(window).on("load", function () {
+        $(".loader-wraper").fadeOut("slow");
+    });
+</script>

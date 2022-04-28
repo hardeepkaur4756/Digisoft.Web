@@ -1,0 +1,159 @@
+﻿
+@{
+    ViewBag.Title = "Services";
+    Layout = "~/Views/Shared/_LayoutInner.cshtml";
+}
+
+<section class="sub-banner"
+         style="background-image: url(/images/bg-pheader.jpg);">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-7">
+                <h4 class="sub-heading">Services</h4>
+            </div>
+            <div class="col-md-5">
+                <ol>
+                    <li><a href="/Home">Home</a></li>
+                    <li>
+                        <i class="fa fa-caret-right" aria-hidden="true"></i>SERVICES
+                    </li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="detail-service">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-8">
+                <div class="common-heading">
+                    <span>// OUR SERVICES</span>
+                    <h3>
+                        We Offer a Wide <br />
+                        Variety of IT Services
+                    </h3>
+                </div>
+            </div>
+            <div class="col-md-4 text-md-right">
+                <a href="/Contact" class="contact-button">Free Quote</a>
+            </div>
+        </div>
+
+        <div class="all-services">
+            <div class="row">
+                <div class="col-md-6 col-lg-4">
+                    <div class="outer-all-services">
+                        <a href="/WebDevelopment" class="stretched-link"></a>
+                        <div class="icon-div">
+                            <img src="~/images/web.png" alt="" />
+                        </div>
+                        <div class="content-services">
+                            <h5>
+                                Web Development
+                            </h5>
+                            <p>
+                                We carry more than just good coding skills. Our experience
+                                makes us stand out from other web development.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                    <div class="outer-all-services">
+                        <a href="/Mobile" class="stretched-link"></a>
+                        <div class="icon-div">
+                            <img src="~/images/mobile.png" alt="" />
+                        </div>
+                        <div class="content-services">
+                            <h5>
+                                Mobile Development
+                            </h5>
+                            <p>
+                                Create complex enterprise software, ensure reliable software
+                                integration, modernise your legacy system.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 col-lg-4">
+                    <div class="outer-all-services">
+                        <a href="/UIUXDesigns" class="stretched-link"></a>
+                        <div class="icon-div">
+                            <img src="~/images/ui-ux.png" alt="" />
+                        </div>
+                        <div class="content-services">
+                            <h5>
+                                UI/UX Design
+                            </h5>
+                            <p>
+                                Build the product you need on time with an experienced team
+                                that uses a clear and effective design process.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="w-100 p-4 d-none d-lg-block"></div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="outer-all-services">
+                        <a href="/DigitalMarketing" class="stretched-link"></a>
+                        <div class="icon-div">
+                            <img src="~/images/digital-marketing.png" alt="" />
+                        </div>
+                        <div class="content-services">
+                            <h5>
+                                Digital Marketing
+                            </h5>
+                            <p>
+                                Turn to our experts to perform comprehensive, multi-stage
+                                testing and auditing of your software.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <div class="outer-all-services">
+                        <a href="/QaAndTesting" class="stretched-link"></a>
+                        <div class="icon-div">
+                            <img src="~/images/testing.png" alt="" />
+                        </div>
+                        <div class="content-services">
+                            <h5>
+                                QA & Testing
+                            </h5>
+                            <p>
+                                Trust our top minds to eliminate workflow pain points,
+                                implement new tech, and consolidate app portfolios.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="consultation"
+         style=" background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(/images/bg-cta-home2.jpg); ">
+    <div class="container">
+        <div class="common-heading">
+            <span>// Drop us a line! We are here to answer your questions 24/7</span>
+            <h3>
+                NEED A CONSULTATION?
+            </h3>
+            <a href="/Contact" class="contact-button">Contact us</a>
+        </div>
+    </div>
+</section>
+
+<section class="clients"
+         style="
+        background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+          url(/images/bg-maps-dots.jpg);
+      ">
+    @Html.Partial("_Testimonial")
+</section>
+

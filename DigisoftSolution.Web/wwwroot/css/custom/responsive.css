@@ -1,0 +1,1513 @@
+@media only screen and (min-width: 1600px) {
+}
+
+@media only screen and (max-width: 1499px) {
+    .happy-customer .inner-happy-customer-img img {
+        height: 345px;
+    }
+
+    .happy-customer .inner-happy-content {
+        padding: 25px;
+    }
+
+    #case-studies .img-case img {
+        height: 325px;
+    }
+
+    .what-we-serve .indus-item .item-inner {
+        padding: 25px 20px 25px 90px;
+    }
+
+        .what-we-serve .indus-item .item-inner h6 {
+            font-size: 17px;
+        }
+
+        .what-we-serve .indus-item .item-inner .itext {
+            font-size: 14px;
+            line-height: 25px;
+        }
+}
+
+@media only screen and (max-width: 1199px) {
+    header .navbar-light .navbar-nav .nav-link {
+        padding: 28px 15px;
+        font-size: 14px;
+    }
+
+    header .navbar .navbar-brand svg {
+        width: 135px;
+    }
+
+    .main-banner h1 {
+        font-size: 45px;
+        font-weight: 800;
+        line-height: 50px;
+        padding: 10px 0 20px 0;
+    }
+
+    .main-banner h2 {
+        font-size: 18px;
+    }
+
+    .main-banner .banner-services .single-service figure img {
+        height: 38px;
+        margin: 0 auto 12px auto;
+    }
+
+    .main-banner {
+        height: 470px;
+    }
+
+    .we-trusted {
+        padding: 80px 0 80px 0;
+    }
+
+    .three-points .outer-points {
+        padding: 25px;
+    }
+
+        .three-points .outer-points .content-box {
+            padding-left: 60px;
+        }
+
+            .three-points .outer-points .content-box p {
+                font-size: 14px;
+            }
+
+    .about-us {
+        padding: 80px 0 80px 0;
+    }
+
+    .clients-logo {
+        padding: 80px 0;
+    }
+
+    .services {
+        padding: 80px 0 240px 0;
+    }
+
+        .services .content-box h5 {
+            font-size: 18px;
+            line-height: 28px;
+            padding-right: 40px;
+        }
+
+    .common-heading h3 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+
+    .common-heading > span {
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+
+    .contact-us .home-contact .common-heading h3 {
+        font-size: 36px;
+    }
+
+    .contact-us .home-contact .common-heading span {
+        font-size: 16px;
+        margin-bottom: 0px;
+    }
+
+    .contact-us .home-contact {
+        margin-top: -145px;
+        padding: 40px 65px 166px 65px;
+    }
+
+    .team {
+        padding: 80px 0;
+    }
+
+        .team .team-outer img {
+            height: 320px;
+        }
+
+    .consultation .common-heading h3 {
+        font-size: 50px;
+        padding: 5px 0 30px 0;
+    }
+
+    .consultation .common-heading span {
+        font-size: 18px;
+        line-height: normal;
+    }
+
+    .contact-button {
+        padding: 15px 25px;
+    }
+
+    .consultation {
+        padding: 80px 0 80px 0;
+    }
+
+    .clients {
+        padding: 80px 0;
+    }
+
+    footer {
+        padding: 80px 0 80px 0;
+    }
+
+    .upper-header {
+        padding: 9px 0;
+    }
+
+        .upper-header .upper-left ul li {
+            font-size: 12px;
+            margin-right: 20px;
+        }
+
+        .upper-header .upper-right ol {
+            display: none;
+        }
+
+    .sub-banner {
+        min-height: 250px;
+    }
+
+        .sub-banner .sub-heading {
+            font-size: 30px;
+        }
+
+    .portfolio {
+        padding: 80px 0;
+    }
+
+    .contact-page .contact-form h2 {
+        font-size: 28px;
+    }
+
+    .actually-do {
+        padding: 80px 0;
+    }
+
+    .production-process .left-content-sec {
+        padding: 60px 5% 60px 5%;
+    }
+
+    .web-devlopment {
+        padding: 80px 0;
+    }
+
+    .detail-service {
+        padding: 80px 0;
+    }
+
+    .mobile-devlopment {
+        padding: 60px 0;
+    }
+
+    .important-things .inner-things h5 {
+        font-size: 18px;
+    }
+
+    .important-things .inner-things {
+        margin-bottom: 30px;
+    }
+
+    .happy-customer .inner-happy-customer-img img {
+        height: 290px;
+    }
+
+    .happy-customer .inner-happy-content h6 {
+        font-size: 18px;
+    }
+
+    .happy-customer .inner-happy-content .s-num {
+        font-size: 36px;
+        margin-bottom: 10px;
+    }
+
+    .happy-customer .inner-happy-content p {
+        font-size: 14px;
+        margin-bottom: 25px;
+    }
+
+    #case-studies .owl-stage-outer {
+        padding: 0;
+    }
+
+    .what-we-serve {
+        padding: 79px 0;
+    }
+
+        .what-we-serve .owl-stage-outer {
+            padding: 0;
+        }
+
+    .services .content-box ul li a {
+        font-size: 11px;
+    }
+
+    .services .icon-main {
+        width: 165px;
+        height: 165px;
+    }
+
+        .services .icon-main figure {
+            bottom: 28px;
+            left: 30px;
+        }
+
+    header .navbar-light .navbar-nav .dropdown-menu .dropdown-item {
+        padding: 7px 20px;
+        font-size: 14px;
+    }
+
+    .why-choose-us .img-why {
+        height: 100%;
+        display: flex;
+        align-items: flex-end;
+    }
+
+    .why-choose-us .some-points-why .inner-why h4 {
+        font-size: 16px;
+        padding: 20px 0 10px 0;
+    }
+
+    .why-choose-us .some-points-why .inner-why p {
+        line-height: 20px;
+        font-size: 12px;
+    }
+
+    .flip-jobs .flip-card {
+        height: 300px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    header .navbar-toggler:focus,
+    header .navbar-toggler:hover {
+        outline: 0;
+    }
+
+    header .hamburger {
+        background: #ffffff;
+        border-radius: 100%;
+        height: 44px;
+        width: 44px;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    header .hamburger-box {
+        position: relative;
+        display: inline-block;
+        width: 26px;
+        height: 18px;
+    }
+
+    header .hamburger-inner,
+    header .hamburger-inner:after,
+    header .hamburger-inner:before {
+        position: absolute;
+        width: 26px;
+        height: 2px;
+        border-radius: 0px;
+        background-color: #0f0a32;
+    }
+
+    header .hamburger--spring .hamburger-inner:before {
+        top: 8px;
+    }
+
+    header .hamburger--spring .hamburger-inner:after {
+        top: 16px;
+    }
+
+    header .hamburger.is-active:hover,
+    header .hamburger:hover {
+        opacity: 1;
+    }
+
+    .main-banner .banner-services .single-service span {
+        font-size: 11px;
+        line-height: 16px;
+    }
+
+    .main-banner .banner-services .single-service {
+        padding: 10px 10px;
+    }
+
+    header .navbar-light .navbar-nav .nav-link::after {
+        display: none;
+    }
+
+    header .navbar-nav {
+        flex-direction: row;
+        justify-content: flex-end;
+        display: inline-flex;
+    }
+
+        header .navbar-nav + div {
+            display: inline-flex;
+        }
+
+    header #navbarSupportedContent {
+        text-align: right;
+    }
+
+    header .navbar-light .navbar-nav .nav-link {
+        padding: 12px 10px;
+        font-size: 14px;
+    }
+
+    .three-points .outer-points .big-number {
+        display: none;
+    }
+
+    .three-points .outer-points .content-box {
+        padding-left: 40px;
+    }
+
+        .three-points .outer-points .content-box p {
+            font-size: 12px;
+        }
+
+        .three-points .outer-points .content-box h5 {
+            font-size: 14px;
+        }
+
+    .three-points .outer-points .icon-main {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .three-points .outer-points {
+        padding: 25px 10px;
+    }
+
+        .three-points .outer-points .icon-main span {
+            font-size: 18px;
+        }
+
+    .common-heading h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    p {
+        font-size: 13px;
+        line-height: 22px !important;
+    }
+
+    .about-us .bottom-points .outer-achive span {
+        font-size: 26px;
+    }
+
+    .about-us .bottom-points .outer-achive h4 {
+        font-size: 13px;
+    }
+
+    .about-us .about-detail .content-sec {
+        padding: 20px;
+    }
+
+    .about-us .about-detail img {
+        height: 185px;
+    }
+
+    .about-us .about-detail .content-sec span {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .services .icon-main figure {
+        bottom: 25px;
+        left: 25px;
+    }
+
+    .services .icon-main {
+        top: -80px;
+        right: -80px;
+        width: 150px;
+        height: 150px;
+    }
+
+    .services .outer-service {
+        padding: 30px 15px;
+    }
+
+    .services .content-box h5 {
+        font-size: 13px;
+        line-height: 22px;
+        padding-right: 45px;
+    }
+
+    .services .content-box .content-text {
+        font-size: 13px;
+        line-height: 24px;
+    }
+
+    .services .content-box ul li {
+        padding: 0 5px;
+    }
+
+        .services .content-box ul li a {
+            font-size: 9px;
+        }
+
+    .contact-button {
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+
+    .contact-us .home-contact .common-heading h3 {
+        font-size: 28px;
+    }
+
+    .contact-us .home-contact .common-heading span {
+        font-size: 13px;
+    }
+
+    .contact-us .home-contact {
+        padding: 40px 40px 166px 40px;
+    }
+
+    footer .botton-nav ul > li > a {
+        font-size: 12px;
+        line-height: normal;
+        padding: 10px 20px;
+    }
+
+    footer .footer-sec a {
+        font-size: 14px;
+        line-height: normal;
+        padding: 10px 0;
+        word-break: break-all;
+    }
+
+    footer .footer-logo {
+        width: 150px;
+    }
+
+    header.inner-header .hamburger {
+        background: #0f0a32;
+    }
+
+    header.inner-header .hamburger-inner,
+    header.inner-header .hamburger-inner:after,
+    header.inner-header .hamburger-inner:before {
+        background-color: #ffffff;
+    }
+
+    header.inner-header .hamburger.is-active .hamburger-inner,
+    header.inner-header .hamburger.is-active .hamburger-inner:after,
+    header.inner-header .hamburger.is-active .hamburger-inner:before {
+        background-color: #fff;
+    }
+
+    .sub-banner {
+        min-height: 180px;
+    }
+
+    .some-points .points-outer h4 {
+        font-size: 35px;
+    }
+
+    .some-points .points-outer p {
+        font-size: 12px;
+        margin-top: 10px;
+        letter-spacing: 0;
+    }
+
+    .some-points .points-outer {
+        padding: 60px 15px;
+    }
+
+    .portfolio .custom-filter .outer-single-portfolio .portfolio-info {
+        padding: 10px;
+    }
+
+        .portfolio .custom-filter .outer-single-portfolio .portfolio-info h5 {
+            font-size: 16px;
+            line-height: 22px;
+            margin-bottom: 4px;
+        }
+
+        .portfolio .custom-filter .outer-single-portfolio .portfolio-info p {
+            font-size: 11px;
+        }
+
+    .related-project .outer-related .related-content .related-info {
+        padding: 15px;
+    }
+
+    .related-project .outer-related .related-content h5 {
+        font-size: 18px;
+    }
+
+    .related-project .outer-related .related-content p {
+        font-size: 11px;
+    }
+
+    .contact-page .contact-form {
+        margin-top: 60px;
+    }
+
+    .portfolio-detail {
+        padding: 80px 0;
+    }
+
+    .contact-page {
+        padding: 80px 0;
+    }
+
+    .production-process .left-content-sec .nav-pills .nav-link {
+        font-size: 12px;
+        padding: 10px 20px 10px 20px;
+    }
+
+    .detail-service .outer-all-services {
+        margin-bottom: 30px;
+    }
+
+    .detail-service {
+        padding: 60px 0 50px 0;
+    }
+
+        .detail-service .contact-button {
+            margin-top: 20px;
+        }
+
+    .important-things .inner-things h5 {
+        font-size: 15px;
+        margin-bottom: 5px;
+    }
+
+    .important-things .inner-things p {
+        font-size: 12px;
+    }
+
+    .important-things .inner-things img {
+        width: 30px;
+    }
+
+    .important-things .inner-things {
+        padding-right: 50px;
+    }
+
+    .inner-things.right-sec {
+        padding-left: 50px;
+        padding-right: 0;
+    }
+
+    header .navbar-nav .dropdown-menu {
+        position: absolute;
+    }
+
+    header {
+        padding-bottom: 10px;
+    }
+
+    .about-us .flip-card {
+        height: 175px;
+    }
+
+    .about-us .flip-card-front .content-sec {
+        padding: 15px;
+    }
+
+        .about-us .flip-card-front .content-sec span {
+            font-size: 20px;
+            line-height: 24px;
+        }
+
+    .about-us .flip-card-back {
+        padding: 15px;
+    }
+
+        .about-us .flip-card-back p {
+            font-size: 12px;
+            line-height: 16px !important;
+            text-align: left;
+        }
+
+    .our-team {
+        padding: 60px 0;
+        min-height: 675px;
+    }
+
+    .team {
+        padding: 60px 0;
+    }
+
+        .team .team-outer img {
+            height: 230px;
+        }
+
+        .team .team-outer h4 {
+            font-size: 16px;
+            line-height: 20px;
+        }
+
+        .team .team-outer span {
+            font-size: 10px;
+            line-height: 16px;
+            text-transform: capitalize;
+            display: block;
+        }
+
+        .team .team-outer .name-div {
+            padding: 14px 5px;
+        }
+
+    .gallery-new {
+        padding: 60px 0 0 0;
+    }
+
+        .gallery-new .common-heading {
+            margin-bottom: 34px;
+        }
+
+        .gallery-new .carousel-control-next,
+        .gallery-new .carousel-control-prev {
+            height: 50px;
+            width: 50px;
+        }
+
+    .we-deliver .inner-deliver {
+        margin-bottom: 30px;
+    }
+
+    .we-deliver {
+        padding: 60px 0 30px 0;
+    }
+
+    .why-case {
+        padding: 60px 0 60px 0;
+    }
+
+    .why-choose-services {
+        padding: 0 0 60px 0;
+    }
+
+        .why-choose-services .why--innerservices h5 {
+            margin-bottom: 10px;
+            font-size: 17px;
+            margin-top: 15px;
+        }
+
+    .why-choose-us {
+        padding: 60px 0 110px 0;
+    }
+
+    .why-points {
+        padding: 0 0 60px 0;
+    }
+
+    .why-choose-services .why--innerservices {
+        padding: 15px;
+    }
+
+    .web-devlopment .about-web-content {
+        padding-left: 0;
+        padding-top: 0;
+    }
+
+    .web-devlopment {
+        padding: 60px 0;
+    }
+
+    .clients {
+        padding: 60px 0;
+    }
+
+    .about-us {
+        padding: 60px 0 60px 0;
+    }
+
+    .case-studies {
+        padding-top: 60px;
+    }
+
+    .what-we-serve {
+        padding: 60px 0;
+    }
+
+    .ui-ux-page {
+        padding: 60px 0;
+    }
+
+    .process-uiux .inner-process h5 {
+        font-size: 18px;
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+
+    .process-uiux .inner-process .sequence-number {
+        height: 75px;
+        width: 75px;
+        font-size: 25px;
+    }
+
+    .process-uiux .inner-process p {
+        font-size: 12px;
+    }
+
+    .ui-ux-case.case-studies {
+        padding-top: 160px;
+    }
+
+    .case-some-points.ui-ux-some-points {
+        padding-top: 60px;
+    }
+
+    .process-uiux {
+        padding: 60px 0;
+        background-image: none;
+    }
+
+    .digital-marketing-page {
+        padding: 60px 0;
+    }
+
+        .digital-marketing-page .common-heading {
+            margin-bottom: 40px;
+        }
+
+        .digital-marketing-page .single-box .icon {
+            width: 65px;
+            height: 65px;
+            font-size: 25px;
+            line-height: 65px;
+        }
+
+        .digital-marketing-page .single-box h3 {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 10px;
+            margin-top: 20px;
+        }
+
+        .digital-marketing-page .single-box {
+            font-size: 14px;
+            padding: 15px;
+            height: 240px;
+        }
+
+        .digital-marketing-page .circle-pattern-2 {
+            opacity: 0;
+        }
+
+        .digital-marketing-page .four-image-sec {
+            margin-top: 60px;
+        }
+
+    .best-digital-marketing {
+        padding: 0 0 30px 0;
+    }
+
+        .best-digital-marketing .best-points .single-services .icon {
+            width: 65px;
+            height: 65px;
+            font-size: 25px;
+            line-height: 65px;
+        }
+
+        .best-digital-marketing .best-points .single-services h3 {
+            font-size: 18px;
+            margin-bottom: 10px;
+            margin-top: 20px;
+        }
+
+        .best-digital-marketing .best-points .single-services p {
+            font-size: 13px;
+            line-height: 22px;
+        }
+
+        .best-digital-marketing .best-points .single-services {
+            padding: 15px;
+            height: 270px;
+        }
+
+    .career-page .inner-benifits h4 {
+        font-size: 17px;
+        margin-bottom: 10px;
+    }
+
+    .career-page .inner-benifits p {
+        font-size: 13px;
+    }
+
+    .career-page .common-heading {
+        margin-bottom: 35px;
+    }
+
+    .career-page {
+        padding: 60px 0;
+    }
+
+    .flip-jobs {
+        padding-bottom: 60px;
+        padding-top: 60px;
+    }
+
+        .flip-jobs .common-heading {
+            margin-bottom: 35px;
+        }
+
+        .flip-jobs .flip-card {
+            height: 250px;
+        }
+
+        .flip-jobs .flip-card-front h4 {
+            font-size: 20px;
+        }
+}
+
+@media only screen and (max-width: 767px) {
+    .main-banner .banner-services .single-service {
+        padding: 10px 5px;
+    }
+
+        .main-banner .banner-services .single-service figure img {
+            height: 30px;
+            margin: 0 auto 7px auto;
+        }
+
+    .main-banner h1 {
+        font-size: 27px;
+        line-height: 36px;
+        padding: 10px 0 20px 0;
+    }
+
+    .main-banner h2 {
+        font-size: 16px;
+    }
+
+    header .navbar-nav {
+        flex-direction: column;
+        justify-content: flex-start;
+        margin: 20px 0;
+        border-top: 1px dashed #ffffff;
+        display: flex;
+    }
+
+    .we-trusted {
+        padding: 50px 0 20px 0;
+        background-size: contain;
+        background-position: 50% 140px;
+    }
+
+    .common-heading h3 br {
+        display: none;
+    }
+
+    .we-trusted .common-heading {
+        margin-bottom: 30px;
+    }
+
+    .three-points .outer-points {
+        margin-bottom: 30px;
+    }
+
+    .about-us {
+        padding: 50px 0 50px 0;
+    }
+
+    .bottom-points {
+        margin-bottom: 30px;
+    }
+
+    .about-us .bottom-points .outer-achive h4 {
+        font-size: 12px;
+        line-height: 19px;
+    }
+
+    .services .outer-service {
+        margin-bottom: 30px;
+    }
+
+    .services {
+        padding: 50px 0 160px 0;
+    }
+
+    .contact-us .home-contact {
+        padding: 40px 20px 166px 20px;
+    }
+
+        .contact-us .home-contact .common-heading h3 {
+            font-size: 24px;
+            line-height: 32px;
+            margin-top: 10px;
+            margin-bottom: 30px;
+        }
+
+    .team {
+        padding: 50px 0 20px 0;
+    }
+
+        .team .common-heading p {
+            width: 100%;
+        }
+
+    .consultation .common-heading h3 {
+        font-size: 30px;
+        line-height: normal;
+    }
+
+    .consultation {
+        padding: 50px 0 50px 0;
+    }
+
+    .clients {
+        padding: 50px 0;
+    }
+
+        .clients .t-head {
+            flex-direction: column;
+            align-items: flex-start;
+        }
+
+            .clients .t-head img {
+                width: 90px;
+                margin-bottom: 30px;
+                margin-right: 0;
+            }
+
+        .clients .layer2 {
+            padding: 40px 20px;
+            min-height: 575px;
+        }
+
+    footer .footer-sec {
+        margin-bottom: 30px;
+    }
+
+    footer {
+        padding: 50px 0 50px 0;
+    }
+
+    .upper-header .upper-left ul {
+        justify-content: center;
+    }
+
+    .sub-banner ol {
+        justify-content: flex-start;
+        margin-top: 10px;
+    }
+
+        .sub-banner ol > li {
+            font-size: 12px;
+        }
+
+            .sub-banner ol > li > a {
+                font-size: 12px;
+            }
+
+    .inner-page-about em {
+        padding-bottom: 20px;
+        display: block;
+    }
+
+    .actually-do .actually-content ul li {
+        height: 55px;
+        width: 55px;
+        margin-right: 10px;
+    }
+
+    .actually-do {
+        padding: 80px 0;
+    }
+
+    .actually-do {
+        padding: 50px 0;
+        background-size: 50%, 50%;
+    }
+
+    .some-points .points-outer p {
+        margin-bottom: 40px;
+    }
+
+    .some-points .points-outer {
+        padding: 60px 15px 20px 15px;
+    }
+
+    .technology-index {
+        padding: 130px 0 50px 0;
+        margin-top: -80px;
+    }
+
+    .upper-header .upper-left ul li:last-child {
+        display: none;
+    }
+
+    header.inner-header .navbar-nav {
+        border-top: 1px dashed #0f0a32;
+    }
+
+    .portfolio {
+        padding: 50px 0;
+    }
+
+        .portfolio .common-heading p {
+            width: 100%;
+        }
+
+        .portfolio .custom-filter button.button:focus {
+            outline: 0;
+        }
+
+        .portfolio .custom-filter button.button {
+            font-size: 14px;
+            padding: 10px 0;
+            margin: 0 5px;
+        }
+
+    .sub-banner ol > li i {
+        margin: 0 5px;
+    }
+
+    .portfolio-detail {
+        padding: 50px 0;
+    }
+
+    .project-detail span {
+        margin-bottom: 20px;
+        display: block;
+    }
+
+    .project-detail ul {
+        justify-content: flex-start;
+    }
+
+    .project-img-detail blockquote {
+        font-size: 18px;
+        line-height: 33px;
+    }
+
+        .project-img-detail blockquote cite {
+            font-size: 13px;
+        }
+
+    .related-project .outer-related {
+        margin-bottom: 30px;
+    }
+
+    .contact-page {
+        padding: 50px 0;
+    }
+
+        .contact-page .contact-detail .single-contact {
+            padding: 25px 14px;
+        }
+
+            .contact-page .contact-detail .single-contact img {
+                height: 20px;
+            }
+
+            .contact-page .contact-detail .single-contact .head-ing {
+                padding-left: 20px;
+            }
+
+        .contact-page .contact-form {
+            padding: 60px 15px;
+        }
+
+            .contact-page .contact-form button.btn {
+                padding: 10px 20px 10px 20px;
+                font-size: 12px;
+            }
+
+    .contact-map {
+        height: 299px;
+    }
+
+    .web-devlopment {
+        padding: 60px 0;
+    }
+
+        .web-devlopment .about-web-content {
+            padding-left: 0;
+            padding-top: 30px;
+        }
+
+    .services-points {
+        margin-bottom: 30px;
+    }
+
+    .production-process .left-content-sec .nav-pills .nav-link {
+        padding: 7px 15px 10px 15px;
+    }
+
+    .case-studies .common-heading {
+        margin-bottom: 15px;
+    }
+
+    #case-studies .content-case {
+        width: calc(100% - 20px);
+        padding: 15px;
+        margin-top: -50px;
+    }
+
+        #case-studies .content-case h5 {
+            font-size: 18px;
+        }
+
+        #case-studies .content-case h6 {
+            font-size: 10px;
+        }
+
+        #case-studies .content-case .know-button {
+            right: -120px;
+            top: -120px;
+        }
+
+            #case-studies .content-case .know-button span {
+                bottom: 30px;
+                left: 30px;
+            }
+
+    .case-studies {
+        padding-bottom: 60px;
+        padding-top: 50px;
+    }
+
+    .what-we-serve .indus-item .item-inner {
+        padding: 15px;
+    }
+
+    .what-we-serve .indus-item {
+        padding: 0px 15px 35px 15px;
+    }
+
+        .what-we-serve .indus-item .item-inner .i-image {
+            position: relative;
+            left: auto;
+            top: auto;
+            transform: translateY(0);
+        }
+
+            .what-we-serve .indus-item .item-inner .i-image img {
+                width: 140px;
+                margin: 0 auto 30px auto;
+            }
+
+    .clients-logo #client-logo img {
+        width: 96%;
+        margin: 0 auto;
+    }
+
+    #clients .owl-theme .owl-dots .owl-dot span {
+        width: 14px;
+        height: 14px;
+    }
+
+    #team .owl-theme .owl-dots .owl-dot span {
+        width: 14px;
+        height: 14px;
+    }
+
+    header {
+        padding: 10px 0;
+    }
+
+    .team .team-outer {
+        margin-bottom: 30px;
+    }
+
+    .about-us .about-detail .detail-content {
+        position: relative;
+        opacity: 1;
+    }
+
+    .about-us .about-detail .content-sec {
+        height: 185px;
+    }
+
+    header .navbar-light .navbar-nav .dropdown .dropdown-menu .dropdown-item {
+        padding: 7px 30px;
+        font-size: 13px;
+    }
+
+    header .navbar-nav .dropdown-menu {
+        border: 0;
+    }
+
+    .banner-services .row {
+        margin: 0px -5px;
+    }
+
+    .banner-services .col-4,
+    .banner-services .col-6 {
+        padding: 0px 5px;
+    }
+
+    .clients-logo {
+        padding: 50px 0;
+    }
+
+    .some-points .points-outer p span {
+        display: none;
+    }
+
+    .some-points .points-outer h4 {
+        font-size: 30px;
+    }
+
+    .our-team {
+        padding: 50px 0;
+        min-height: 260px;
+        background-size: contain;
+    }
+
+    .contact-us.team-contact .home-contact {
+        padding: 50px 20px 50px 20px;
+        background-position: 78% top;
+    }
+
+    .why-choose-us {
+        padding: 50px 0 0 0;
+    }
+
+        .why-choose-us .why-content {
+            padding-top: 40px;
+        }
+
+        .why-choose-us .inner-why {
+            padding-bottom: 50px;
+        }
+
+    .why-points {
+        padding: 50px 0;
+        margin-top: 0;
+    }
+
+    #case-studies .outer-case {
+        padding: 0 15px;
+    }
+
+    #case-studies .img-case img {
+        height: 249px;
+    }
+
+    .we-deliver {
+        padding: 50px 0;
+    }
+
+        .we-deliver .inner-deliver {
+            margin-bottom: 15px;
+        }
+
+    .sub-banner .sub-heading {
+        font-size: 24px;
+    }
+
+    .what-we-serve {
+        padding: 50px 0;
+    }
+
+    .ui-ux-page {
+        padding: 60px 0 20px 0;
+        background: none;
+    }
+
+        .ui-ux-page figure {
+            margin-bottom: 40px;
+        }
+
+        .ui-ux-page .inner-points {
+            margin-bottom: 30px;
+        }
+
+    .process-uiux .inner-process {
+        margin-bottom: 50px;
+    }
+
+    .process-uiux {
+        padding: 60px 0 20px 0;
+        background-image: none;
+    }
+
+        .process-uiux .inner-process .sequence-number {
+            height: 80px;
+            width: 80px;
+            font-size: 30px;
+        }
+
+    .case-some-points.ui-ux-some-points {
+        margin-bottom: -50px;
+        padding-top: 50px;
+        margin-top: 0;
+    }
+
+    .ui-ux-case {
+        padding-bottom: 50px;
+        padding-top: 100px;
+    }
+
+    .digital-marketing-page {
+        padding: 50px 0;
+    }
+
+        .digital-marketing-page .single-box {
+            margin-bottom: 15px;
+        }
+
+        .digital-marketing-page .four-image-sec .about-text {
+            margin-top: 30px;
+        }
+
+        .digital-marketing-page .circle-pattern-2 {
+            opacity: 0.2;
+        }
+
+        .digital-marketing-page .common-heading {
+            margin-bottom: 35px;
+        }
+
+    .best-digital-marketing {
+        padding: 50px 0;
+    }
+
+        .best-digital-marketing .common-heading h3 + p {
+            width: 100%;
+        }
+
+    .custom-filter .grid-item {
+        width: 100%;
+        padding: 0;
+    }
+
+    .portfolio .custom-filter .filter-button-group ul > li {
+        font-size: 14px;
+        margin: 0 8px;
+    }
+
+    .career-page {
+        padding: 50px 0;
+        background: none;
+    }
+
+        .career-page .mid-pad {
+            padding: 0;
+        }
+
+        .career-page .inner-benifits {
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+            .career-page .inner-benifits h4 {
+                font-size: 18px;
+            }
+
+    .apply {
+        padding: 50px 0;
+    }
+
+        .apply .inner-apply {
+            margin-bottom: 15px;
+            padding-bottom: 55px;
+        }
+
+            .apply .inner-apply a {
+                transform: translateY(0);
+            }
+
+    .mid-pad {
+        padding: 0;
+    }
+
+    .apply-form {
+        padding: 50px 0;
+    }
+
+        .apply-form .contact-form {
+            padding: 60px 15px;
+        }
+
+            .apply-form .contact-form button.btn {
+                margin-top: 25px;
+                font-size: 12px;
+                padding: 10px 20px 10px 20px;
+            }
+
+    #client-logo .owl-carousel .owl-nav button.owl-next,
+    #client-logo .owl-carousel .owl-nav button.owl-prev {
+        color: #a6a6a6;
+        left: 0;
+    }
+
+    #client-logo .owl-carousel .owl-nav button.owl-next {
+        right: 0;
+        left: auto;
+    }
+
+    .clients-logo #client-logo figure {
+        padding: 0 30px;
+    }
+
+    header .navbar-nav .dropdown-menu {
+        position: static;
+    }
+
+    header #navbarSupportedContent {
+        text-align: left;
+    }
+
+    .gallery-new .carousel-control-next,
+    .gallery-new .carousel-control-prev {
+        height: 35px;
+        width: 35px;
+    }
+
+    .gallery-new .carousel-control-next-icon,
+    .gallery-new .carousel-control-prev-icon {
+        width: 15px;
+        height: 15px;
+    }
+
+    .why-choose-services .why--innerservices {
+        margin-bottom: 15px;
+    }
+
+    .ui-ux-case.case-studies {
+        padding-top: 110px;
+    }
+
+    .flip-jobs .flip-card {
+        margin-bottom: 15px;
+    }
+}
+
+@media only screen and (min-width: 375px) and (max-width: 767px) {
+    .clients .layer2 {
+        min-height: 515px;
+    }
+}
+
+@media only screen and (min-width: 414px) and (max-width: 767px) {
+    .clients .layer2 {
+        min-height: 485px;
+    }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+}
+
+@media only screen and (min-width: 991px) {
+    header .navbar-nav .dropdown-menu {
+        transform: translateY(50px) !important;
+        transition: all ease-in-out 0.3s !important;
+        display: block !important;
+        visibility: hidden;
+        opacity: 0;
+        padding: 20px 0;
+        border: 0;
+        min-width: 15rem;
+        position: absolute;
+    }
+
+    header .navbar-light .navbar-nav .dropdown:hover .dropdown-menu {
+        transform: translateY(0) !important;
+        visibility: visible;
+        opacity: 1;
+    }
+}

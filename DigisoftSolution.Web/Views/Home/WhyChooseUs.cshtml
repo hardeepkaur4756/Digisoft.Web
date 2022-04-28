@@ -1,0 +1,380 @@
+﻿
+@{
+    ViewBag.Title = "Portfolio";
+    Layout = "~/Views/Shared/_LayoutInner.cshtml";
+}
+
+<section class="sub-banner"
+         style="background-image: url(/images/bg-pheader.jpg);">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-7">
+                <h4 class="sub-heading">Why Choose Us</h4>
+            </div>
+            <div class="col-md-5">
+                <ol>
+                    <li><a href="/Home">Home</a></li>
+                    <li>
+                        <i class="fa fa-caret-right" aria-hidden="true"></i>
+                        Why Choose Us
+                    </li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="why-choose-us">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="img-why">
+                    <figure>
+                        <img src="~/images/man1.png" class="d-block w-100" alt="" />
+                    </figure>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="why-content">
+                    <div class="common-heading text-left">
+                        <span>// WHY CHOOSE US</span>
+                        <h3>
+                            //Why choose us! <br />
+                            some reasons here
+                        </h3>
+                        <p>
+                            Engitech is the partner of choice for many of the world’s
+                            leading enterprises, SMEs and technology challengers. We help
+                            businesses elevate their value through custom software
+                            development, product design, QA and consultancy services.
+                        </p>
+                    </div>
+                    <div class="some-points-why">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="inner-why">
+                                    <figure>
+                                        <img src="~/images/research.png" alt="" />
+                                    </figure>
+                                    <h4>24/7 customer support</h4>
+                                    <p>
+                                        How all this mistaken was born & because those who do
+                                        not know.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="inner-why">
+                                    <figure>
+                                        <img src="~/images/research.png" alt="" />
+                                    </figure>
+                                    <h4>Awesome team member</h4>
+                                    <p>
+                                        How all this mistaken was born & because those who do
+                                        not know.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="w-100 p-md-3"></div>
+                            <div class="col-md-6 d-md-none d-lg-block">
+                                <div class="inner-why">
+                                    <figure>
+                                        <img src="~/images/research.png" alt="" />
+                                    </figure>
+                                    <h4>Good product quality</h4>
+                                    <p>
+                                        How all this mistaken was born & because those who do
+                                        not know.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6 d-md-none d-lg-block">
+                                <div class="inner-why">
+                                    <figure>
+                                        <img src="~/images/research.png" alt="" />
+                                    </figure>
+                                    <h4>Many years exprience</h4>
+                                    <p>
+                                        How all this mistaken was born & because those who do
+                                        not know.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="some-points why-points" id="about-points">
+    <div class="container">
+        <div class="points-outer">
+            @Html.Partial("_Points")
+        </div>
+    </div>
+</section>
+
+<section class="why-choose-services">
+    <div class="container">
+        <div class="common-heading">
+            <span>// OUR SERVICES</span>
+            <h3>
+                We Offer a Wide <br />
+                Variety of IT Services
+            </h3>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-md-4">
+                <div class="why--innerservices">
+                    <figure><img src="/images/web.png" alt="" /></figure>
+                    <h5>Web Development</h5>
+                    <p>
+                        We carry more than just good coding skills. Our experience makes
+                        us stand out from other web development.
+                    </p>
+                    <a href="/WebDevelopment" class="stretched-link"></a>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="why--innerservices mobile-back">
+                    <figure><img src="/images/mobile.png" alt="" /></figure>
+                    <h5>Mobile Development</h5>
+                    <p>
+                        We carry more than just good coding skills. Our experience makes
+                        us stand out from other web development.
+                    </p>
+                    <a href="/Mobile" class="stretched-link"></a>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="why--innerservices ui/ux-back">
+                    <figure><img src="/images/ui-ux.png" alt="" /></figure>
+                    <h5>UI/UX Design</h5>
+                    <p>
+                        We carry more than just good coding skills. Our experience makes
+                        us stand out from other web development.
+                    </p>
+                    <a href="/UIUXDesigns" class="stretched-link"></a>
+                </div>
+            </div>
+            <div class="w-100 p-md-3"></div>
+
+            <div class="col-md-4">
+                <div class="why--innerservices digital-back">
+                    <figure>
+                        <img src="/images/digital-marketing.png" alt="" />
+                    </figure>
+                    <h5>Digital Marketing</h5>
+                    <p>
+                        We carry more than just good coding skills. Our experience makes
+                        us stand out from other web development.
+                    </p>
+                    <a href="/DigitalMarketing" class="stretched-link"></a>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="why--innerservices testing-back">
+                    <figure>
+                        <img src="/images/testing.png" alt="" />
+                    </figure>
+                    <h5>QA & Testing</h5>
+                    <p>
+                        We carry more than just good coding skills. Our experience makes
+                        us stand out from other web development.
+                    </p>
+                    <a href="/QaAndTesting" class="stretched-link"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="case-studies why-case"
+         style="background-image: url(/images/bg-footer1.png);">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-5">
+                <div class="common-heading">
+                    <span>// LATEST CASE STUDIES</span>
+                    <h3>
+                        Introduce Our Projects
+                    </h3>
+                </div>
+            </div>
+            <div class="col-md-7">
+                <p>
+                    Software development outsourcing is just a tool to achieve
+                    business goals. But there is no way to get worthwhile results
+                    without cooperation and trust between a client company.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div id="case-studies">
+        <div class="owl-carousel owl-theme">
+            <div class="item">
+                <div class="outer-case">
+                    <div class="img-case">
+                        <img src="~/images/project8-720x520.jpg" alt="" />
+                    </div>
+                    <div class="content-case">
+                        <h5>Analysis of Security</h5>
+                        <h6>Ideas / Design</h6>
+                        <span class="know-button">
+                            <span class="material-icons">
+                                arrow_forward
+                            </span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="outer-case">
+                    <div class="img-case">
+                        <img src="~/images/project8-720x520.jpg" alt="" />
+                    </div>
+                    <div class="content-case">
+                        <h5>Analysis of Security</h5>
+                        <h6>Ideas / Design</h6>
+                        <span class="know-button">
+                            <span class="material-icons">
+                                arrow_forward
+                            </span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="outer-case">
+                    <div class="img-case">
+                        <img src="~/images/project8-720x520.jpg" alt="" />
+                    </div>
+                    <div class="content-case">
+                        <h5>Analysis of Security</h5>
+                        <h6>Ideas / Design</h6>
+                        <span class="know-button">
+                            <span class="material-icons">
+                                arrow_forward
+                            </span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="outer-case">
+                    <div class="img-case">
+                        <img src="~/images/project8-720x520.jpg" alt="" />
+                    </div>
+                    <div class="content-case">
+                        <h5>Analysis of Security</h5>
+                        <h6>Ideas / Design</h6>
+                        <span class="know-button">
+                            <span class="material-icons">
+                                arrow_forward
+                            </span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="outer-case">
+                    <div class="img-case">
+                        <img src="~/images/project8-720x520.jpg" alt="" />
+                    </div>
+                    <div class="content-case">
+                        <h5>Analysis of Security</h5>
+                        <h6>Ideas / Design</h6>
+                        <span class="know-button">
+                            <span class="material-icons">
+                                arrow_forward
+                            </span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="outer-case">
+                    <div class="img-case">
+                        <img src="~/images/project8-720x520.jpg" alt="" />
+                    </div>
+                    <div class="content-case">
+                        <h5>Analysis of Security</h5>
+                        <h6>Ideas / Design</h6>
+                        <span class="know-button">
+                            <span class="material-icons">
+                                arrow_forward
+                            </span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="we-deliver"
+         style="background-image: url(/images/bg-solution-section.jpg);">
+    <div class="container">
+        <div class="common-heading">
+            <span>// TECHNOLOGY INDEX</span>
+            <h3>
+                We Deliver Solution with <br />
+                the Goal of Trusting Relationships
+            </h3>
+        </div>
+        <div class="row">
+            <div class="col-md-4 col-lg-2">
+                <div class="inner-deliver">
+                    <figure><img src="~/images/ios.png" alt="" /></figure>
+                    <h5>WEB</h5>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-lg-2">
+                <div class="inner-deliver">
+                    <figure><img src="~/images/ios.png" alt="" /></figure>
+                    <h5>Android</h5>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-lg-2">
+                <div class="inner-deliver">
+                    <figure><img src="~/images/ios.png" alt="" /></figure>
+                    <h5>IOS</h5>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-lg-2">
+                <div class="inner-deliver">
+                    <figure><img src="~/images/ios.png" alt="" /></figure>
+                    <h5>IOT</h5>
+                </div>
+            </div>
+
+            <div class="col-md-4 col-lg-2">
+                <div class="inner-deliver">
+                    <figure><img src="~/images/ios.png" alt="" /></figure>
+                    <h5>Wearalables</h5>
+                </div>
+            </div>
+            <div class="col-md-4 col-lg-2">
+                <div class="inner-deliver">
+                    <figure><img src="~/images/ios.png" alt="" /></figure>
+                    <h5>TV</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

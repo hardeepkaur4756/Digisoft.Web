@@ -1,0 +1,530 @@
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\appsettings.json
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.exe
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.deps.json
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.runtimeconfig.json
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.runtimeconfig.dev.json
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.pdb
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.Views.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.Views.pdb
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.AssemblyInfoInputs.cache
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.AssemblyInfo.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.csproj.CoreCompileInputs.cache
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorAssemblyInfo.cache
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorAssemblyInfo.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\staticwebassets\DigisoftSolution.Web.StaticWebAssets.Manifest.cache
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.TagHelpers.input.cache
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.TagHelpers.output.cache
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorCoreGenerate.cache
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Applica.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Career.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\DigitalMarketing.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Gallery.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mobile.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\OurTeam.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Portfolio.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\QaAndTesting.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Services.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\UIUXDesigns.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\WebDevelopment.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\WhyChooseUs.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ClientLogo.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Footer.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Leadership.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Menu.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Social.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Testimonial.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Portfolio\Applica.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutInner.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorTargetAssemblyInfo.cache
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorTargetAssemblyInfo.cs
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.Views.pdb
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.csproj.CopyComplete
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.dll
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.pdb
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.genruntimeconfig.cache
+D:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.csproj.AssemblyReference.cache
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.exe
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.deps.json
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.runtimeconfig.json
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.runtimeconfig.dev.json
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.pdb
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.Views.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.Views.pdb
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.csproj.CoreCompileInputs.cache
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorAssemblyInfo.cache
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorAssemblyInfo.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.AssemblyInfoInputs.cache
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.AssemblyInfo.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.TagHelpers.input.cache
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.TagHelpers.output.cache
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorCoreGenerate.cache
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Applica.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Career.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\DigitalMarketing.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Gallery.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mobile.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\OurTeam.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Portfolio.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\QaAndTesting.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Services.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\UIUXDesigns.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\WebDevelopment.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\WhyChooseUs.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ClientLogo.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Footer.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Leadership.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Menu.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Social.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Testimonial.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Portfolio\Applica.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutInner.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.Views.pdb
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.csproj.CopyComplete
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\staticwebassets\DigisoftSolution.Web.StaticWebAssets.Manifest.cache
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\staticwebassets\DigisoftSolution.Web.StaticWebAssets.xml
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.dll
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.pdb
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.genruntimeconfig.cache
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Points.cshtml.g.cs
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.csprojAssemblyReference.cache
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\appsettings.json
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.exe
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.deps.json
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.runtimeconfig.json
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.runtimeconfig.dev.json
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.pdb
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.Views.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.Views.pdb
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.csprojAssemblyReference.cache
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.AssemblyInfoInputs.cache
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.AssemblyInfo.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.csproj.CoreCompileInputs.cache
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorAssemblyInfo.cache
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorAssemblyInfo.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\staticwebassets\DigisoftSolution.Web.StaticWebAssets.Manifest.cache
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\staticwebassets\DigisoftSolution.Web.StaticWebAssets.xml
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\DigisoftSolution.Web.styles.css
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.TagHelpers.input.cache
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.TagHelpers.output.cache
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorCoreGenerate.cache
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Applica.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Career.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\DigitalMarketing.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Gallery.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mobile.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\OurTeam.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Portfolio.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\QaAndTesting.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Services.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\UIUXDesigns.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\WebDevelopment.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\WhyChooseUs.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ClientLogo.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Footer.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Leadership.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Menu.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Points.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Social.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Testimonial.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Portfolio\Applica.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutInner.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorTargetAssemblyInfo.cache
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorTargetAssemblyInfo.cs
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.Views.pdb
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.csproj.CopyComplete
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.dll
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.pdb
+E:\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.genruntimeconfig.cache
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.exe
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.deps.json
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.runtimeconfig.json
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.runtimeconfig.dev.json
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.pdb
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.Views.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\DigisoftSolution.Web.Views.pdb
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.csprojAssemblyReference.cache
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.csproj.CoreCompileInputs.cache
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorAssemblyInfo.cache
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorAssemblyInfo.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.AssemblyInfoInputs.cache
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.AssemblyInfo.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.TagHelpers.input.cache
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.TagHelpers.output.cache
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorCoreGenerate.cache
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Applica.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Career.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\DigitalMarketing.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Gallery.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Mobile.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\OurTeam.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Portfolio.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\QaAndTesting.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Services.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\UIUXDesigns.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\WebDevelopment.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\WhyChooseUs.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ClientLogo.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Footer.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Leadership.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Menu.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Points.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Social.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Testimonial.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Portfolio\Applica.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutInner.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorTargetAssemblyInfo.cache
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.RazorTargetAssemblyInfo.cs
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.Views.pdb
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.csproj.CopyComplete
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\staticwebassets\DigisoftSolution.Web.StaticWebAssets.Manifest.cache
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\staticwebassets\DigisoftSolution.Web.StaticWebAssets.xml
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.dll
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.pdb
+D:\Digisoft 2.0\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp3.1\DigisoftSolution.Web.genruntimeconfig.cache

@@ -1,0 +1,157 @@
+﻿
+@{
+    ViewBag.Title = "Portfolio";
+    Layout = "~/Views/Shared/_LayoutInner.cshtml";
+}
+
+<section class="sub-banner"
+         style="background-image: url(/images/bg-pheader.jpg);">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-5">
+                <h4 class="sub-heading">Portfolio</h4>
+            </div>
+            <div class="col-md-7">
+                <ol>
+                    <li><a href="/Home">Home</a></li>
+                    <li>
+                        <i class="fa fa-caret-right" aria-hidden="true"></i>
+                        Portfolio
+                    </li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="portfolio">
+    <div class="container">
+        <div class="common-heading">
+            <span>// LATEST CASE STUDIES</span>
+            <h3>
+                Introduce Our Projects
+            </h3>
+            <p>
+                Software development outsourcing is just a tool to achieve business goals. But there is no way
+                to get worthwhile results without cooperation and trust between a client company.
+            </p>
+        </div>
+        <div class="">
+            <div class="">
+                <div class="custom-filter">
+                    <div class="filters filter-button-group">
+                        <ul>
+                            
+                                <li class="active" data-filter="*">All</li>
+                                <li data-filter=".webdesign">Web Design</li>
+                                <li data-filter=".webdev">Web Development</li>
+                                <li data-filter=".brand">Brand Identity</li>
+                            
+                        </ul>
+                    </div>
+
+                    <div class="content grid">
+
+                        <div class="single-content webdesign webdev grid-item">
+                            <div class="outer-single-portfolio">
+                                <img src="~/images/project1-720x564.jpg" class="w-100 d-block" alt="">
+                                <a href="" class="stretched-link"></a>
+                                <div class="portfolio-info">
+                                    <h5>App for Virtual Reality</h5>
+                                    <p>Design / Design</p>
+                                </div>
+                            </div></div>
+
+                        <div class="single-content brand webdesign grid-item">
+                            <div class="outer-single-portfolio">
+                                <img src="~/images/project10.jpg" class="w-100 d-block" alt="">
+                                <a href="" class="stretched-link"></a>
+                                <div class="portfolio-info">
+                                    <h5>App for Virtual Reality</h5>
+                                    <p>Design / Design</p>
+                                </div>
+                            </div> </div>
+
+                        <div class="single-content brand grid-item">
+                            <div class="outer-single-portfolio">
+                                <img src="~/images/project1-720x564.jpg" class="w-100 d-block" alt="">
+                                <a href="" class="stretched-link"></a>
+                                <div class="portfolio-info">
+                                    <h5>App for Virtual Reality</h5>
+                                    <p>Design / Design</p>
+                                </div>
+                            </div></div>
+
+                        <div class="single-content webdesign grid-item">
+                            <div class="outer-single-portfolio">
+                                <img src="~/images/project10.jpg" class="w-100 d-block" alt="">
+                                <a href="" class="stretched-link"></a>
+                                <div class="portfolio-info">
+                                    <h5>App for Virtual Reality</h5>
+                                    <p>Design / Design</p>
+                                </div>
+                            </div></div>
+
+                        <div class="single-content webdesign grid-item">
+                            <div class="outer-single-portfolio">
+                                <img src="~/images/project1-720x564.jpg" class="w-100 d-block" alt="">
+                                <a href="" class="stretched-link"></a>
+                                <div class="portfolio-info">
+                                    <h5>App for Virtual Reality</h5>
+                                    <p>Design / Design</p>
+                                </div>
+                            </div></div>
+
+                        <div class="single-content webdesign brand grid-item">
+                            <div class="outer-single-portfolio">
+                                <img src="~/images/project1-720x564.jpg" class="w-100 d-block" alt="">
+                                <a href="" class="stretched-link"></a>
+                                <div class="portfolio-info">
+                                    <h5>App for Virtual Reality</h5>
+                                    <p>Design / Design</p>
+                                </div>
+                            </div> </div>
+
+                        <div class="single-content webdesign grid-item">
+                            <div class="outer-single-portfolio">
+                                <img src="~/images/project10.jpg" class="w-100 d-block" alt="">
+                                <a href="" class="stretched-link"></a>
+                                <div class="portfolio-info">
+                                    <h5>App for Virtual Reality</h5>
+                                    <p>Design / Design</p>
+                                </div>
+                            </div></div>
+
+                        <div class="single-content webdesign webdev grid-item">
+                            <div class="outer-single-portfolio">
+                                <img src="~/images/project10.jpg" class="w-100 d-block" alt="">
+                                <a href="" class="stretched-link"></a>
+                                <div class="portfolio-info">
+                                    <h5>App for Virtual Reality</h5>
+                                    <p>Design / Design</p>
+                                </div>
+                            </div></div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<script>
+     $(document).ready( function() {   
+
+$('.grid').isotope({
+  itemSelector: '.grid-item',
+});
+
+// filter items on button click
+$('.filter-button-group').on( 'click', 'li', function() {
+  var filterValue = $(this).attr('data-filter');
+  $('.grid').isotope({ filter: filterValue });
+  $('.filter-button-group li').removeClass('active');
+  $(this).addClass('active');
+});
+    })
+</script>

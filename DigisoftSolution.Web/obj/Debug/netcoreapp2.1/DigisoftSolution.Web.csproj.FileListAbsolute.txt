@@ -1,0 +1,4 @@
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp2.1\DigisoftSolution.Web.csprojAssemblyReference.cache
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp2.1\DigisoftSolution.Web.csproj.CoreCompileInputs.cache
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp2.1\DigisoftSolution.Web.AssemblyInfoInputs.cache
+C:\Users\Partner-PC\Downloads\DigisoftSolution.Web\DigisoftSolution.Web\DigisoftSolution.Web\obj\Debug\netcoreapp2.1\DigisoftSolution.Web.AssemblyInfo.cs

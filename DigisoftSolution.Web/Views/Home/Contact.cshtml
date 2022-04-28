@@ -1,0 +1,168 @@
+﻿@{
+    ViewBag.Title = "Contact";
+    Layout = "~/Views/Shared/_LayoutInner.cshtml";
+}
+<section class="sub-banner"
+         style="background-image: url(/images/bg-pheader.jpg);">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-7">
+                <h4 class="sub-heading">Contacts</h4>
+            </div>
+            <div class="col-md-5">
+                <ol>
+                    <li><a href="/Home">Home</a></li>
+                    <li>
+                        <i class="fa fa-caret-right" aria-hidden="true"></i>
+                        Contacts
+                    </li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="contact-page">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-5">
+                <div class="contact-detail">
+                    <div class="common-heading">
+                        <span> // CONTACT DETAILS</span>
+                        <h3>
+                            Contact us
+                        </h3>
+                        <p>
+                            Give us a call or drop by anytime, we endeavour to answer all
+                            enquiries within 24 hours on business days. We will be happy
+                            to answer your questions.
+                        </p>
+                    </div>
+
+                    <div class="single-contact">
+                        <figure>
+                            <img src="~/images/globe.png" alt="" />
+                        </figure>
+                        <div class="head-ing">
+                            <h6>Our Address:</h6>
+                            <a href="">F-178, Sector 74, SAS Nagar, Punjab, India</a>
+                        </div>
+                    </div>
+
+                    <div class="single-contact our-email">
+                        <figure>
+                            <img src="~/images/email.png" alt="" />
+                        </figure>
+                        <div class="head-ing">
+                            <h6>Our Mailbox:</h6>
+                            <a href="mailto:info@digisoftsolution.net">info@digisoftsolution.net</a>
+                        </div>
+                    </div>
+
+                    <div class="single-contact">
+                        <figure>
+                            <img src="~/images/call.png" alt="" />
+                        </figure>
+                        <div class="head-ing">
+                            <h6>Our Phone:</h6>
+                            <a href="tel:+918283831813">+91 -82838-31813</a>
+                        </div>
+                    </div>
+
+                    <div class="single-contact">
+                        <figure>
+                            <img src="~/images/skype.png" alt="" />
+                        </figure>
+                        <div class="head-ing">
+                            <h6>Our Skype:</h6>
+                            <a href="skype:info@digisoftsolution.net?chat">info@digisoftsolution.net</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="offset-lg-1 col-lg-6">
+                <div class="contact-form">
+                    <h2>Ready to Get Started?</h2>
+                    <p>
+                        Your email address will not be published. Required fields are
+                        marked *
+                    </p>
+                    <form action="">
+                        <div class="form-group">
+                            <input type="text"
+                                   class="form-control"
+                                   id="txtName"
+                                   aria-describedby="emailHelp"
+                                   placeholder="Your Name*" />
+                        </div>
+                        <div class="form-group">
+                            <input type="text"
+                                   class="form-control"
+                                   id="txtPhone"
+                                   aria-describedby="emailHelp"
+                                   placeholder="Your Phone Number*" />
+                        </div>
+                        <div class="form-group">
+                            <input type="email"
+                                   class="form-control"
+                                   id="txtEmail"
+                                   aria-describedby="emailHelp"
+                                   placeholder="Your Email" />
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control"
+                                      id="txtMessage"
+                                      rows="5"
+                                      placeholder="Message"></textarea>
+                        </div>
+                        <a onclick="sendEmail();" class="btn">
+                            Send Message
+                        </a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="contact-map">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3430.3313287991223!2d76.6891094155304!3d30.70908458164542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390feb3437dc0447%3A0x66c75f7197258864!2sDigisoft%20Solution!5e0!3m2!1sen!2sin!4v1590653433814!5m2!1sen!2sin"
+            frameborder="0"
+            style="border: 0;"
+            allowfullscreen=""
+            aria-hidden="false"
+            tabindex="0"></iframe>
+</section>
+<script type="text/javascript">
+    function sendEmail() {
+        if ($('#txtEmail').val() == "" || $('#txtName').val() == "" || $('#txtPhone').val() == "" || $('#txtMessage').val() == "" || !isEmail($('#txtEmail').val())) {
+            return false;
+        }
+        $(".loader-wraper").fadeIn("slow");
+        var dataObject = JSON.stringify({
+            'Email': $('#txtEmail').val(),
+            'Name': $('#txtName').val(),
+            'PhoneNumber': $('#txtPhone').val(),
+            'Message': $('#txtMessage').val()
+        });
+        $.ajax({
+            type: "POST",
+            url: '@Url.Action("Send", "Home")',
+            contentType: "application/json",
+            data: dataObject,
+            dataType: "json",
+            success: function (result) {
+                debugger;
+                if (result.success == true) {
+                    $.notify("Thank you for your message! We will get back to you.", { color: "#0064b0", type:"info" });
+                    $('#txtEmail').val('');
+                    $('#txtName').val('');
+                    $('#txtPhone').val('');
+                    $('#txtMessage').val('');
+                    $(".loader-wraper").fadeOut("slow");
+                }
+            }
+        });
+    }
+</script>
